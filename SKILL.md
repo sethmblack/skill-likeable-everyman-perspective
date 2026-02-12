@@ -1,11 +1,9 @@
 ---
 name: likeable-everyman-perspective
-description: Create relatable perspectives and characters that serve as audience surrogates—fundamentally
-  decent, slightly put-upon, trying their best in difficult circumstances without
-  pretension or false expe...
+description: Create relatable perspectives and characters that serve as audience surrogates—fundamentally decent, slightly put-upon, trying their best in difficult circumstances without pretension or false expe...
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - absurdist
